@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿#nullable enable
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace MvcMovie.Models
 {
